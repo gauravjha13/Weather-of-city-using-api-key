@@ -1,0 +1,23 @@
+-----------------------------------------------------------------
+Weather Status of - LONDON (GB) || 27 July 2021 | 11:34:47 PM 
+-----------------------------------------------------------------
+Longitude : -0.1257 || Latitude : 51.5085 
+Current temperature is : 13.4 Deg C
+Current weather Description : few clouds 
+Current Humidity : 84 % 
+Current wind speed : 1.79 kmph
+-----------------------------------------------------------------
+Complete Link : https://api.openweathermap.org/data/2.5/weather?q=London&appid=e51899a0d69119f5321530f7702155af
+-----------------------------------------------------------------
+
+-----------------------------------------------------------------
+Weather Status of - MUMBAI (IN) || 27 July 2021 | 11:36:56 PM 
+-----------------------------------------------------------------
+Longitude : 72.8479 || Latitude : 19.0144 
+Current temperature is : 29.0 Deg C
+Current weather Description : haze 
+Current Humidity : 84 % 
+Current wind speed : 4.63 kmph
+-----------------------------------------------------------------
+Complete Link : https://api.openweathermap.org/data/2.5/weather?q=Mumbai&appid=e51899a0d69119f5321530f7702155af
+-----------------------------------------------------------------
